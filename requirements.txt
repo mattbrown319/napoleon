@@ -6,3 +6,7 @@ requests==2.32.3
 soupsieve==2.7
 typing_extensions==4.13.2
 urllib3==2.4.0
+langdetect==1.0.9
+nltk==3.8.1
+python-magic==0.4.27
+tqdm==4.66.2

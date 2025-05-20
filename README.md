@@ -1,6 +1,83 @@
-# Napoleon Corpus Collection
+# Napoleon Text Processing Project
 
-This project is dedicated to collecting, processing, and analyzing the writings of Napoleon Bonaparte. The goal is to build a training dataset for fine-tuning a language model to "talk, act, and think" like Napoleon.
+A generalized historical text processing pipeline for analyzing, structuring, and organizing historical documents.
+
+## Vision
+
+Create a flexible text processing system that can:
+- Analyze any historical text corpus
+- Identify different voices, topics, and structural elements
+- Extract meaningful patterns without hardcoded assumptions
+- Support training of specialized language models
+
+## Three-Stage Processing Pipeline
+
+### Stage 1: Structural Parsing
+- Extract raw text and preserve encoding
+- Identify document structure (headers, sections, chapters)
+- Remove modern publishing metadata
+- Detect footnotes, endnotes, and editorial insertions
+- Preserve document hierarchy
+
+### Stage 2: Content Classification  
+- Distinguish between voices (direct speech, quotations, narration)
+- Classify content by type (description, reflection, dialogue)
+- Detect stylistic patterns that indicate authorship
+- Identify embedded documents (letters, speeches, journal entries)
+
+### Stage 3: Semantic Organization
+- Cluster content by topic across documents
+- Build relationships between themes and concepts
+- Create navigable semantic maps of the corpus
+- Support intelligent retrieval by concept
+
+## Iterative Development Plan
+
+### Phase 1: Foundation (Current)
+- ✅ Basic text ingestion and encoding detection
+- ✅ Initial cleaning of obvious metadata
+- ✅ Chunking for manageable processing
+- ✅ Simple JSON output format
+
+### Phase 2: Enhanced Structure Detection (Next)
+- Improve boundary detection between metadata and content
+- Detect natural section breaks within documents
+- Identify quotations and embedded documents
+- Build document structure maps
+
+### Phase 3: Voice and Authorship Analysis
+- Train classifiers to distinguish between voices
+- Detect stylistic patterns indicating authorship
+- Identify first-person vs third-person narratives
+- Flag content with direct speech vs biographical material
+
+### Phase 4: Semantic Understanding
+- Implement topic modeling across the corpus
+- Build relationships between related content
+- Create topic graphs showing conceptual relationships
+- Support content retrieval by semantic similarity
+
+### Phase 5: Application-Specific Optimizations
+- Fine-tune for specific historical figures or topics
+- Optimize for training specialized language models
+- Create APIs for intelligent content retrieval
+- Build visualization tools for corpus exploration
+
+## Immediate Next Steps
+
+1. Enhance the metadata extraction with improved section boundary detection
+2. Implement quotation and direct speech detection
+3. Create a document structure analyzer for hierarchical content mapping
+4. Develop a simple voice attribution classifier
+5. Test the system across different types of historical documents
+
+## Technologies
+
+- Python for core processing
+- NLTK and spaCy for NLP tasks
+- LLMs (via Ollama) for intelligent text analysis
+- Machine learning for classification and clustering
+- Potential graph databases for semantic relationships
 
 ## Project Structure
 napoleon/
