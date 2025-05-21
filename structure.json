@@ -1,0 +1,1113 @@
+{
+  "boundaries": {
+    "content_start": 994,
+    "content_end": 727691,
+    "has_front_matter": true,
+    "has_back_matter": true,
+    "front_matter_type": "",
+    "back_matter_type": ""
+  },
+  "sections": [
+    {
+      "section_type": "heading",
+      "section_title": "A LIFE OF NAPOLEON BONAPARTE",
+      "position": 41,
+      "marker": "A LIFE OF NAPOLEON BONAPARTE",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "BONAPARTE AT TWENTY-TWO YEARS OF AGE",
+      "position": 843,
+      "marker": "BONAPARTE AT TWENTY-TWO YEARS OF AGE",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "THE LIFE OF NAPOLEON:",
+      "position": 1702,
+      "marker": "THE LIFE OF NAPOLEON:",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "II. IN PARIS.—LIEUTENANT OF ARTILLERY.—LITERARY WORK.—THE",
+      "position": 1874,
+      "marker": "II. IN PARIS.—LIEUTENANT OF ARTILLERY.—LITERARY WORK.—THE",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "III. ROBESPIERRE.—OUT OF WORK.—FIRST SUCCESS                      43",
+      "position": 2011,
+      "marker": "III. ROBESPIERRE.—OUT OF WORK.—FIRST SUCCESS                      43",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "V. ITALIAN CAMPAIGN.—RULES OF WAR                               61",
+      "position": 2159,
+      "marker": "V. ITALIAN CAMPAIGN.—RULES OF WAR                               61",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "VII. STATESMAN AND LAWGIVER.—THE FINANCES.—THE INDUSTRIES.—THE",
+      "position": 2307,
+      "marker": "VII. STATESMAN AND LAWGIVER.—THE FINANCES.—THE INDUSTRIES.—THE",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "VIII. RETURN OF THE ÉMIGRÉS.—THE CONCORDAT.—LEGION OF",
+      "position": 2448,
+      "marker": "VIII. RETURN OF THE ÉMIGRÉS.—THE CONCORDAT.—LEGION OF",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "IX. OPPOSITION TO THE CENTRALIZATION OF THE",
+      "position": 2579,
+      "marker": "IX. OPPOSITION TO THE CENTRALIZATION OF THE",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "X. PREPARATIONS FOR WAR WITH ENGLAND.—FLOTILLA AT",
+      "position": 2702,
+      "marker": "X. PREPARATIONS FOR WAR WITH ENGLAND.—FLOTILLA AT",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "XI. EMPEROR OF THE FRENCH PEOPLE.—KING OF ITALY                 151",
+      "position": 2832,
+      "marker": "XI. EMPEROR OF THE FRENCH PEOPLE.—KING OF ITALY                 151",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "XIII. EXTENSION OF NAPOLEON’S EMPIRE.—FAMILY AFFAIRS              179",
+      "position": 2980,
+      "marker": "XIII. EXTENSION OF NAPOLEON’S EMPIRE.—FAMILY AFFAIRS              179",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "SPANISH THRONE                                            191",
+      "position": 3116,
+      "marker": "SPANISH THRONE                                            191",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "XVI. TALLEYRAND’S TREACHERY.—CAMPAIGN OF 1809                    211",
+      "position": 3264,
+      "marker": "XVI. TALLEYRAND’S TREACHERY.—CAMPAIGN OF 1809                    211",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "THE KING OF ROME.                                         221",
+      "position": 3406,
+      "marker": "THE KING OF ROME.                                         221",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "AGREEMENT BROKEN                                          229",
+      "position": 3541,
+      "marker": "AGREEMENT BROKEN                                          229",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "XX. CAMPAIGN OF 1813.—CAMPAIGN OF 1814.—ABDICATION              253",
+      "position": 3689,
+      "marker": "XX. CAMPAIGN OF 1813.—CAMPAIGN OF 1814.—ABDICATION              253",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "XXII. SURRENDER TO ENGLISH.—ST. HELENA.—DEATH                     279",
+      "position": 3837,
+      "marker": "XXII. SURRENDER TO ENGLISH.—ST. HELENA.—DEATH                     279",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "SKETCH OF JOSEPHINE—EMPRESS OF THE FRENCH:",
+      "position": 3986,
+      "marker": "SKETCH OF JOSEPHINE—EMPRESS OF THE FRENCH:",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "II. JOSEPHINE IN THE REVOLUTION.—IMPRISONED AT LES",
+      "position": 4155,
+      "marker": "II. JOSEPHINE IN THE REVOLUTION.—IMPRISONED AT LES",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "III. BONAPARTE GOES TO ITALY.—JOSEPHINE AT MILAN",
+      "position": 4285,
+      "marker": "III. BONAPARTE GOES TO ITALY.—JOSEPHINE AT MILAN",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "EGYPT                                                     346",
+      "position": 4406,
+      "marker": "EGYPT                                                     346",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "LIFE.—HER PERSONAL CHARM.—MALMAISON                       360",
+      "position": 4548,
+      "marker": "LIFE.—HER PERSONAL CHARM.—MALMAISON                       360",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "HORTENSE.—JOSEPHINE EMPRESS OF THE FRENCH PEOPLE.—THE",
+      "position": 4671,
+      "marker": "HORTENSE.—JOSEPHINE EMPRESS OF THE FRENCH PEOPLE.—THE",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "VI. ETIQUETTE REGULATING JOSEPHINE’S LIFE.—ROYAL",
+      "position": 4810,
+      "marker": "VI. ETIQUETTE REGULATING JOSEPHINE’S LIFE.—ROYAL",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "VII. JOSEPHINE NOT ALLOWED TO GO TO POLAND.—FEAR OF",
+      "position": 4938,
+      "marker": "VII. JOSEPHINE NOT ALLOWED TO GO TO POLAND.—FEAR OF",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "OF 1809 AND ITS EFFECT ON NAPOLEON                        399",
+      "position": 5060,
+      "marker": "OF 1809 AND ITS EFFECT ON NAPOLEON                        399",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "UNHAPPINESS.—NAPOLEON’S VIEW OF A DIVORCE.—THE WAY IN",
+      "position": 5183,
+      "marker": "UNHAPPINESS.—NAPOLEON’S VIEW OF A DIVORCE.—THE WAY IN",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "IX. AFTER THE DIVORCE.—NAVARRE.—JOSEPHINE’S SUSPICIONS OF THE",
+      "position": 5322,
+      "marker": "IX. AFTER THE DIVORCE.—NAVARRE.—JOSEPHINE’S SUSPICIONS OF THE",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "X. EFFECT ON JOSEPHINE OF DISASTERS IN RUSSIA.—ANXIETY DURING",
+      "position": 5463,
+      "marker": "X. EFFECT ON JOSEPHINE OF DISASTERS IN RUSSIA.—ANXIETY DURING",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "HANDWRITING OF NAPOLEON AT DIFFERENT PERIODS                453",
+      "position": 5605,
+      "marker": "HANDWRITING OF NAPOLEON AT DIFFERENT PERIODS                453",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "CHRONOLOGY OF THE LIFE OF NAPOLEON BONAPARTE                469",
+      "position": 5753,
+      "marker": "CHRONOLOGY OF THE LIFE OF NAPOLEON BONAPARTE                469",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "PREFACE TO FIRST EDITION",
+      "position": 5904,
+      "marker": "PREFACE TO FIRST EDITION",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "PREFACE TO SECOND EDITION",
+      "position": 15367,
+      "marker": "PREFACE TO SECOND EDITION",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "CHARLES BONAPARTE, FATHER OF NAPOLEON. BORN 1746; DIED 1785.]",
+      "position": 16816,
+      "marker": "CHARLES BONAPARTE, FATHER OF NAPOLEON. BORN 1746; DIED 1785.]",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "GENERAL OF THE ARMY OF ITALY, BONAPARTE AS EMPEROR.]",
+      "position": 16970,
+      "marker": "GENERAL OF THE ARMY OF ITALY, BONAPARTE AS EMPEROR.]",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "NAPOLEON’S YOUTH AND EARLY SURROUNDINGS—HIS SCHOOL DAYS AT BRIENNE",
+      "position": 17122,
+      "marker": "NAPOLEON’S YOUTH AND EARLY SURROUNDINGS—HIS SCHOOL DAYS AT BRIENNE",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "LÆTITIA RAMOLINO, NAPOLEON’S MOTHER. BORN 1750, DIED 1836.]",
+      "position": 21927,
+      "marker": "LÆTITIA RAMOLINO, NAPOLEON’S MOTHER. BORN 1750, DIED 1836.]",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "BONAPARTE AT BRIENNE.",
+      "position": 28576,
+      "marker": "BONAPARTE AT BRIENNE.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "NAPOLEON IN PARIS—LIEUTENANT OF ARTILLERY—LITERARY WORK—NAPOLEON AND THE",
+      "position": 31192,
+      "marker": "NAPOLEON IN PARIS—LIEUTENANT OF ARTILLERY—LITERARY WORK—NAPOLEON AND THE",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "BONAPARTE AT VALENCE.",
+      "position": 36795,
+      "marker": "BONAPARTE AT VALENCE.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "BONAPARTE AT THE TUILERIES, AUGUST 10, 1792.",
+      "position": 46211,
+      "marker": "BONAPARTE AT THE TUILERIES, AUGUST 10, 1792.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "PORTRAIT OF BONAPARTE, DONE IN CRAYON BY ONE OF HIS SCHOOLFELLOWS.",
+      "position": 52712,
+      "marker": "PORTRAIT OF BONAPARTE, DONE IN CRAYON BY ONE OF HIS SCHOOLFELLOWS.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "NAPOLEON AND ROBESPIERRE—OUT OF WORK—GENERAL-IN-CHIEF OF THE ARMY OF THE",
+      "position": 55770,
+      "marker": "NAPOLEON AND ROBESPIERRE—OUT OF WORK—GENERAL-IN-CHIEF OF THE ARMY OF THE",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "PEN PORTRAIT OF BONAPARTE IN PROFILE.",
+      "position": 67668,
+      "marker": "PEN PORTRAIT OF BONAPARTE IN PROFILE.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "NAPOLEON’S COURTSHIP AND MARRIAGE—HIS DEVOTION TO JOSEPHINE",
+      "position": 70180,
+      "marker": "NAPOLEON’S COURTSHIP AND MARRIAGE—HIS DEVOTION TO JOSEPHINE",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "BONAPARTE, GENERAL OF THE ARMY IN ITALY.",
+      "position": 75786,
+      "marker": "BONAPARTE, GENERAL OF THE ARMY IN ITALY.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "THE FIRST ITALIAN CAMPAIGN—NAPOLEON’S WAY OF MAKING WAR",
+      "position": 83613,
+      "marker": "THE FIRST ITALIAN CAMPAIGN—NAPOLEON’S WAY OF MAKING WAR",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "“BONAPARTE A LA BATAILLE D’ARCOLE, LE 27 BRUMAIRE, AN V.”]",
+      "position": 100555,
+      "marker": "“BONAPARTE A LA BATAILLE D’ARCOLE, LE 27 BRUMAIRE, AN V.”]",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "“NAPOLEONE BUONAPARTE.”",
+      "position": 122772,
+      "marker": "“NAPOLEONE BUONAPARTE.”",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "BONAPARTE AT MALMAISON.",
+      "position": 129671,
+      "marker": "BONAPARTE AT MALMAISON.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "NAPOLEON AT THE BATTLE OF THE PYRAMIDS, JULY 21, 1798.",
+      "position": 135129,
+      "marker": "NAPOLEON AT THE BATTLE OF THE PYRAMIDS, JULY 21, 1798.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "“INSTALLATION OF THE COUNCIL OF STATE AT THE PALACE OF THE PETIT",
+      "position": 141538,
+      "marker": "“INSTALLATION OF THE COUNCIL OF STATE AT THE PALACE OF THE PETIT",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "NAPOLEON THE GREAT CROSSING MOUNT ST. BERNARD, MAY, 1800.",
+      "position": 147698,
+      "marker": "NAPOLEON THE GREAT CROSSING MOUNT ST. BERNARD, MAY, 1800.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "KLÉBER, 1753 OR 1754–1800.",
+      "position": 151587,
+      "marker": "KLÉBER, 1753 OR 1754–1800.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "“LUCIEN BONAPARTE, PRESIDENT OF THE COUNCIL OF THE FIVE HUNDRED, 18TH",
+      "position": 152587,
+      "marker": "“LUCIEN BONAPARTE, PRESIDENT OF THE COUNCIL OF THE FIVE HUNDRED, 18TH",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "NAPOLEON AS STATESMAN AND LAWGIVER—THE FINANCES—THE INDUSTRIES—THE",
+      "position": 152728,
+      "marker": "NAPOLEON AS STATESMAN AND LAWGIVER—THE FINANCES—THE INDUSTRIES—THE",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "BONAPARTE, FIRST CONSUL.",
+      "position": 164570,
+      "marker": "BONAPARTE, FIRST CONSUL.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "MEDALLION OF BONAPARTE",
+      "position": 171076,
+      "marker": "MEDALLION OF BONAPARTE",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "RETURN OF THE EMIGRES—THE CONCORDAT—LEGION OF HONOR—CODE NAPOLEON",
+      "position": 172223,
+      "marker": "RETURN OF THE EMIGRES—THE CONCORDAT—LEGION OF HONOR—CODE NAPOLEON",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "SIGNING OF CONCORDAT.",
+      "position": 177248,
+      "marker": "SIGNING OF CONCORDAT.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "NAPOLEON REVIEWING THE CONSULAR GUARDS IN THE COURT OF THE TUILERIES.",
+      "position": 183682,
+      "marker": "NAPOLEON REVIEWING THE CONSULAR GUARDS IN THE COURT OF THE TUILERIES.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "BONAPARTE, 1^{ER} CONSUL DE LA RÉP. FRANÇ.",
+      "position": 189721,
+      "marker": "BONAPARTE, 1^{ER} CONSUL DE LA RÉP. FRANÇ.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "OPPOSITION TO THE CENTRALIZATION OF THE GOVERNMENT—GENERAL PROSPERITY",
+      "position": 193085,
+      "marker": "OPPOSITION TO THE CENTRALIZATION OF THE GOVERNMENT—GENERAL PROSPERITY",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "“THE GENERAL OF THE GRAND ARMY.”",
+      "position": 198194,
+      "marker": "“THE GENERAL OF THE GRAND ARMY.”",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "BONAPARTE AS GENERAL, CONSUL, MEMBER OF THE INSTITUTE.",
+      "position": 203978,
+      "marker": "BONAPARTE AS GENERAL, CONSUL, MEMBER OF THE INSTITUTE.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "PREPARATIONS FOR WAR WITH ENGLAND—FLOTILLA AT BOULOGNE—SALE OF LOUISIANA",
+      "position": 206967,
+      "marker": "PREPARATIONS FOR WAR WITH ENGLAND—FLOTILLA AT BOULOGNE—SALE OF LOUISIANA",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "GRAY REDINGOTE AND PETIT CHAPEAU WORN BY NAPOLEON.]",
+      "position": 212432,
+      "marker": "GRAY REDINGOTE AND PETIT CHAPEAU WORN BY NAPOLEON.]",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "NAPOLEON THE GREAT (“NAPOLEON LE GRAND”) IN CORONATION ROBES. 1805.",
+      "position": 217325,
+      "marker": "NAPOLEON THE GREAT (“NAPOLEON LE GRAND”) IN CORONATION ROBES. 1805.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "OPPOSITION TO NAPOLEON—THE ESTABLISHMENT OF THE EMPIRE—KING OF ITALY",
+      "position": 217561,
+      "marker": "OPPOSITION TO NAPOLEON—THE ESTABLISHMENT OF THE EMPIRE—KING OF ITALY",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "NAPOLEON WITH THE IRON CROWN OF LOMBARDY.",
+      "position": 230989,
+      "marker": "NAPOLEON WITH THE IRON CROWN OF LOMBARDY.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "NAPOLEON REVIEWING HIS GUARDS.",
+      "position": 236978,
+      "marker": "NAPOLEON REVIEWING HIS GUARDS.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "CAMPAIGN OF 1805—CAMPAIGN OF 1806–1807—PEACE OF TILSIT",
+      "position": 237084,
+      "marker": "CAMPAIGN OF 1805—CAMPAIGN OF 1806–1807—PEACE OF TILSIT",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "dated_entry",
+      "section_title": "December 3, 1805:",
+      "position": 246933,
+      "marker": "December 3, 1805:",
+      "is_embedded_document": true
+    },
+    {
+      "section_type": "heading",
+      "section_title": "1806. BATTLE OF JENA.",
+      "position": 248287,
+      "marker": "1806. BATTLE OF JENA.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "MEETING OF FREDERICK WILLIAM III., KING OF PRUSSIA, NAPOLEON, AND",
+      "position": 254494,
+      "marker": "MEETING OF FREDERICK WILLIAM III., KING OF PRUSSIA, NAPOLEON, AND",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "IS FREDERICK WILLIAM; THAT ON THE RIGHT IS ALEXANDER.",
+      "position": 254633,
+      "marker": "IS FREDERICK WILLIAM; THAT ON THE RIGHT IS ALEXANDER.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "NAPOLEON RECEIVING QUEEN LOUISE OF PRUSSIA, JULY 6, 1807.",
+      "position": 256783,
+      "marker": "NAPOLEON RECEIVING QUEEN LOUISE OF PRUSSIA, JULY 6, 1807.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "EXTENSION OF NAPOLEON’S EMPIRE—FAMILY AFFAIRS",
+      "position": 259833,
+      "marker": "EXTENSION OF NAPOLEON’S EMPIRE—FAMILY AFFAIRS",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "JOSEPH BONAPARTE IN HIS CORONATION ROBES. 1808.",
+      "position": 261182,
+      "marker": "JOSEPH BONAPARTE IN HIS CORONATION ROBES. 1808.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "JEROME BONAPARTE. 1808.",
+      "position": 264331,
+      "marker": "JEROME BONAPARTE. 1808.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "MARIE PAULINE BONAPARTE, PRINCESS BORGHESE.",
+      "position": 266368,
+      "marker": "MARIE PAULINE BONAPARTE, PRINCESS BORGHESE.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "ELISA BACCIOCHI, GRAND DUCHESS OF TUSCANY, ELDEST SISTER OF NAPOLEON",
+      "position": 269295,
+      "marker": "ELISA BACCIOCHI, GRAND DUCHESS OF TUSCANY, ELDEST SISTER OF NAPOLEON",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "THE BERLIN DECREE—WAR IN THE PENINSULA—THE BONAPARTES ON THE SPANISH",
+      "position": 275675,
+      "marker": "THE BERLIN DECREE—WAR IN THE PENINSULA—THE BONAPARTES ON THE SPANISH",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "THE QUEEN OF NAPLES AND MARIE MURAT.",
+      "position": 276907,
+      "marker": "THE QUEEN OF NAPLES AND MARIE MURAT.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "JOACHIM MURAT (1771–1815).",
+      "position": 279028,
+      "marker": "JOACHIM MURAT (1771–1815).",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "DISASTER IN SPAIN—ALEXANDER AND NAPOLEON IN COUNCIL—NAPOLEON AT MADRID",
+      "position": 287310,
+      "marker": "DISASTER IN SPAIN—ALEXANDER AND NAPOLEON IN COUNCIL—NAPOLEON AT MADRID",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "ALEXANDER I. OF RUSSIA. 1805.]",
+      "position": 292913,
+      "marker": "ALEXANDER I. OF RUSSIA. 1805.]",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "MARSHAL LEFEBVRE. ABOUT 1796.",
+      "position": 294618,
+      "marker": "MARSHAL LEFEBVRE. ABOUT 1796.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "BERNADOTTE. ABOUT 1798.",
+      "position": 300847,
+      "marker": "BERNADOTTE. ABOUT 1798.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "THE EYE OF THE MASTER.",
+      "position": 301572,
+      "marker": "THE EYE OF THE MASTER.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "MARIE LOUISE IN ROYAL ROBES. 1810.",
+      "position": 314269,
+      "marker": "MARIE LOUISE IN ROYAL ROBES. 1810.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "THE DIVORCE—A NEW WIFE—AN HEIR TO THE CROWN",
+      "position": 314467,
+      "marker": "THE DIVORCE—A NEW WIFE—AN HEIR TO THE CROWN",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "MARRIAGE OF THE EMPEROR NAPOLEON AND MARIE LOUISE, ARCHDUCHESS OF",
+      "position": 321935,
+      "marker": "MARRIAGE OF THE EMPEROR NAPOLEON AND MARIE LOUISE, ARCHDUCHESS OF",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "TROUBLE WITH THE POPE—THE CONSCRIPTION—EVASIONS OF THE BLOCKADE—THE",
+      "position": 325836,
+      "marker": "TROUBLE WITH THE POPE—THE CONSCRIPTION—EVASIONS OF THE BLOCKADE—THE",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "NAPOLEON AND POPE PIUS VII. IN CONFERENCE AT FONTAINEBLEAU.",
+      "position": 327364,
+      "marker": "NAPOLEON AND POPE PIUS VII. IN CONFERENCE AT FONTAINEBLEAU.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "THE KING OF ROME. 1811.",
+      "position": 329193,
+      "marker": "THE KING OF ROME. 1811.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "“NAPOLEON IN HIS CABINET.” THE CHILD AT HIS SIDE IS HIS SON, THE KING",
+      "position": 331936,
+      "marker": "“NAPOLEON IN HIS CABINET.” THE CHILD AT HIS SIDE IS HIS SON, THE KING",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "THE DUKE OF REICHSTADT.",
+      "position": 333644,
+      "marker": "THE DUKE OF REICHSTADT.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "PORTRAIT OF THE KING OF ROME.",
+      "position": 335517,
+      "marker": "PORTRAIT OF THE KING OF ROME.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "THE RUSSIAN CAMPAIGN—THE BURNING OF MOSCOW—A NEW ARMY",
+      "position": 336896,
+      "marker": "THE RUSSIAN CAMPAIGN—THE BURNING OF MOSCOW—A NEW ARMY",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "MARSHAL NEY (“LE MARECHAL NEY, DUC D’ELCHINGEN, PRINCE DE LA MOSKOWA,",
+      "position": 337975,
+      "marker": "MARSHAL NEY (“LE MARECHAL NEY, DUC D’ELCHINGEN, PRINCE DE LA MOSKOWA,",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "ATTENTION! THE EMPEROR HAS HIS EYE ON US.",
+      "position": 340275,
+      "marker": "ATTENTION! THE EMPEROR HAS HIS EYE ON US.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "NAPOLEON AFTER THE RUSSIAN CAMPAIGN.]",
+      "position": 342329,
+      "marker": "NAPOLEON AFTER THE RUSSIAN CAMPAIGN.]",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "THEY GRUMBLED, BUT THEY FOLLOWED ALWAYS.",
+      "position": 348439,
+      "marker": "THEY GRUMBLED, BUT THEY FOLLOWED ALWAYS.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "CAMPAIGN OF 1813—CAMPAIGN OF 1814—ABDICATION",
+      "position": 351934,
+      "marker": "CAMPAIGN OF 1813—CAMPAIGN OF 1814—ABDICATION",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "THE DUKE OF REICHSTADT.",
+      "position": 353626,
+      "marker": "THE DUKE OF REICHSTADT.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "NAPOLEON AT FONTAINEBLEAU THE EVENING AFTER HIS ABDICATION, APRIL 11,",
+      "position": 370674,
+      "marker": "NAPOLEON AT FONTAINEBLEAU THE EVENING AFTER HIS ABDICATION, APRIL 11,",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "RULER OF THE ISLAND OF ELBA—RETURN TO PARIS—THE HUNDRED DAYS—THE SECOND",
+      "position": 370840,
+      "marker": "RULER OF THE ISLAND OF ELBA—RETURN TO PARIS—THE HUNDRED DAYS—THE SECOND",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "NAPOLEON’S RETURN FROM THE ISLAND OF ELBA, MARCH, 1815.]",
+      "position": 376405,
+      "marker": "NAPOLEON’S RETURN FROM THE ISLAND OF ELBA, MARCH, 1815.]",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "“MARENGO,” NAPOLEON’S WAR-HORSE, LAST RIDDEN BY HIM AT THE BATTLE OF",
+      "position": 379851,
+      "marker": "“MARENGO,” NAPOLEON’S WAR-HORSE, LAST RIDDEN BY HIM AT THE BATTLE OF",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "THE EIGHT EPOCHS OF THE LIFE OF NAPOLEON.",
+      "position": 382342,
+      "marker": "THE EIGHT EPOCHS OF THE LIFE OF NAPOLEON.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "NAPOLEON EMBARKING ON THE “BELLEROPHON.”",
+      "position": 387225,
+      "marker": "NAPOLEON EMBARKING ON THE “BELLEROPHON.”",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "NAPOLEON’S SURRENDER TO ENGLAND—SENT TO ST. HELENA—LIFE IN EXILE—DEATH",
+      "position": 387354,
+      "marker": "NAPOLEON’S SURRENDER TO ENGLAND—SENT TO ST. HELENA—LIFE IN EXILE—DEATH",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "NAPOLEON ON BOARD THE “NORTHUMBERLAND.”",
+      "position": 388657,
+      "marker": "NAPOLEON ON BOARD THE “NORTHUMBERLAND.”",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "LONGWOOD, NAPOLEON’S HOUSE AT ST. HELENA.",
+      "position": 390650,
+      "marker": "LONGWOOD, NAPOLEON’S HOUSE AT ST. HELENA.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "NAPOLEON AT ST. HELENA.",
+      "position": 392832,
+      "marker": "NAPOLEON AT ST. HELENA.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "WAX CAST OF THE FACE OF NAPOLEON, MADE AT ST. HELENA IN 1821, BY DR.",
+      "position": 402494,
+      "marker": "WAX CAST OF THE FACE OF NAPOLEON, MADE AT ST. HELENA IN 1821, BY DR.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "THE SECOND FUNERAL OF NAPOLEON—REMOVAL OF NAPOLEON’S REMAINS FROM ST.",
+      "position": 404861,
+      "marker": "THE SECOND FUNERAL OF NAPOLEON—REMOVAL OF NAPOLEON’S REMAINS FROM ST.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "DEATH MASK OF NAPOLEON, MADE BY DR. ANTOMMARCHI AT ST. HELENA, 1821.",
+      "position": 406426,
+      "marker": "DEATH MASK OF NAPOLEON, MADE BY DR. ANTOMMARCHI AT ST. HELENA, 1821.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "NAPOLEON’S TOMB AT ST. HELENA.",
+      "position": 419395,
+      "marker": "NAPOLEON’S TOMB AT ST. HELENA.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "THE FUNERAL PROCESSION IN PARIS. FUNERAL CAR PASSING DOWN THE CHAMPS",
+      "position": 428699,
+      "marker": "THE FUNERAL PROCESSION IN PARIS. FUNERAL CAR PASSING DOWN THE CHAMPS",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "THE FUNERAL MASS IN THE CHURCH OF THE HOTEL DES INVALIDES. THE",
+      "position": 438655,
+      "marker": "THE FUNERAL MASS IN THE CHURCH OF THE HOTEL DES INVALIDES. THE",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "JOSEPHINE, EMPRESS OF THE FRENCH.",
+      "position": 445425,
+      "marker": "JOSEPHINE, EMPRESS OF THE FRENCH.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "FAMILY—EARLY SURROUNDINGS—EUGENE DE BEAUHARNAIS—MARRIAGE—SEPARATION FROM",
+      "position": 445831,
+      "marker": "FAMILY—EARLY SURROUNDINGS—EUGENE DE BEAUHARNAIS—MARRIAGE—SEPARATION FROM",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "JOSEPHINE IN THE REVOLUTION—IMPRISONED AT LES CARMES—STRUGGLE FOR",
+      "position": 461853,
+      "marker": "JOSEPHINE IN THE REVOLUTION—IMPRISONED AT LES CARMES—STRUGGLE FOR",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "BONAPARTE GOES TO ITALY—JOSEPHINE AT MILAN—TRIUMPHAL TOUR IN",
+      "position": 484468,
+      "marker": "BONAPARTE GOES TO ITALY—JOSEPHINE AT MILAN—TRIUMPHAL TOUR IN",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "BONAPARTE IS MADE FIRST CONSUL—JOSEPHINE’S TACT IN PUBLIC LIFE—HER",
+      "position": 511049,
+      "marker": "BONAPARTE IS MADE FIRST CONSUL—JOSEPHINE’S TACT IN PUBLIC LIFE—HER",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "JOSEPHINE AT MALMAISON.",
+      "position": 518024,
+      "marker": "JOSEPHINE AT MALMAISON.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "THE QUESTION OF SUCCESSION—MARRIAGE OF HORTENSE—JOSEPHINE EMPRESS OF THE",
+      "position": 528327,
+      "marker": "THE QUESTION OF SUCCESSION—MARRIAGE OF HORTENSE—JOSEPHINE EMPRESS OF THE",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "THE EMPRESS JOSEPHINE.",
+      "position": 544664,
+      "marker": "THE EMPRESS JOSEPHINE.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "THE EMPEROR NAPOLEON I. BESTOWING THE CROWN ON THE EMPRESS JOSEPHINE,",
+      "position": 550380,
+      "marker": "THE EMPEROR NAPOLEON I. BESTOWING THE CROWN ON THE EMPRESS JOSEPHINE,",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "ETIQUETTE REGULATING JOSEPHINE’S LIFE—ROYAL JOURNEYS—TACT OF THE",
+      "position": 551831,
+      "marker": "ETIQUETTE REGULATING JOSEPHINE’S LIFE—ROYAL JOURNEYS—TACT OF THE",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "JOSEPHINE, EMPRESS OF THE FRENCH AND QUEEN OF ITALY. 1805.",
+      "position": 566729,
+      "marker": "JOSEPHINE, EMPRESS OF THE FRENCH AND QUEEN OF ITALY. 1805.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "JOSEPHINE NOT ALLOWED TO GO TO POLAND—FEAR OF DIVORCE—THE RECONCILIATION",
+      "position": 574172,
+      "marker": "JOSEPHINE NOT ALLOWED TO GO TO POLAND—FEAR OF DIVORCE—THE RECONCILIATION",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "JOSEPHINE, THE FIRST WIFE OF NAPOLEON.",
+      "position": 592984,
+      "marker": "JOSEPHINE, THE FIRST WIFE OF NAPOLEON.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "NAPOLEON RETURNS TO FRANCE—JOSEPHINE’S UNHAPPINESS—NAPOLEON’S VIEW OF A",
+      "position": 595575,
+      "marker": "NAPOLEON RETURNS TO FRANCE—JOSEPHINE’S UNHAPPINESS—NAPOLEON’S VIEW OF A",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "THE DIVORCE OF NAPOLEON AND JOSEPHINE.]",
+      "position": 601072,
+      "marker": "THE DIVORCE OF NAPOLEON AND JOSEPHINE.]",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "AFTER THE DIVORCE—NAVARRE—JOSEPHINE’S SUSPICIONS OF THE EMPEROR—HER",
+      "position": 612088,
+      "marker": "AFTER THE DIVORCE—NAVARRE—JOSEPHINE’S SUSPICIONS OF THE EMPEROR—HER",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "EUGÉNIE HORTENSE DE BEAUHARNAIS. 1783–1837.",
+      "position": 628604,
+      "marker": "EUGÉNIE HORTENSE DE BEAUHARNAIS. 1783–1837.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "LOUIS BONAPARTE. 1778–1846.",
+      "position": 631452,
+      "marker": "LOUIS BONAPARTE. 1778–1846.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "NAPOLEON AND THE KING OF ROME.",
+      "position": 633789,
+      "marker": "NAPOLEON AND THE KING OF ROME.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "EFFECT ON JOSEPHINE OF DISASTERS IN RUSSIA—ANXIETY DURING CAMPAIGN OF",
+      "position": 638744,
+      "marker": "EFFECT ON JOSEPHINE OF DISASTERS IN RUSSIA—ANXIETY DURING CAMPAIGN OF",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "EUGENE DE BEAUHARNAIS, NAPOLEON’S STEPSON. (“EUGENIO NAPOLEONE, PRINCE",
+      "position": 642264,
+      "marker": "EUGENE DE BEAUHARNAIS, NAPOLEON’S STEPSON. (“EUGENIO NAPOLEONE, PRINCE",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "dated_entry",
+      "section_title": "January 19, 1796, _Le Général Buonaparte_.",
+      "position": 662382,
+      "marker": "January 19, 1796, _Le Général Buonaparte_.",
+      "is_embedded_document": true
+    },
+    {
+      "section_type": "heading",
+      "section_title": "TABLE OF THE BONAPARTE FAMILY.",
+      "position": 667274,
+      "marker": "TABLE OF THE BONAPARTE FAMILY.",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "CHRONOLOGY OF THE LIFE OF NAPOLEON BONAPARTE",
+      "position": 673658,
+      "marker": "CHRONOLOGY OF THE LIFE OF NAPOLEON BONAPARTE",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "THE FULL PROJECT GUTENBERG LICENSE",
+      "position": 709572,
+      "marker": "THE FULL PROJECT GUTENBERG LICENSE",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "section",
+      "section_title": "Section 1. General Terms of Use and Redistributing Project Gutenberg™",
+      "position": 710021,
+      "marker": "Section 1. General Terms of Use and Redistributing Project Gutenberg™",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE",
+      "position": 719665,
+      "marker": "LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE",
+      "position": 719794,
+      "marker": "TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH",
+      "position": 719935,
+      "marker": "INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "heading",
+      "section_title": "OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT",
+      "position": 720953,
+      "marker": "OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "section",
+      "section_title": "Section 2. Information about the Mission of Project Gutenberg™",
+      "position": 722260,
+      "marker": "Section 2. Information about the Mission of Project Gutenberg™",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "section",
+      "section_title": "Section 3. Information about the Project Gutenberg Literary Archive Foundation",
+      "position": 723220,
+      "marker": "Section 3. Information about the Project Gutenberg Literary Archive Foundation",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "section",
+      "section_title": "Section 4. Information about Donations to the Project Gutenberg",
+      "position": 724003,
+      "marker": "Section 4. Information about Donations to the Project Gutenberg",
+      "is_embedded_document": false
+    },
+    {
+      "section_type": "section",
+      "section_title": "Section 5. General Information About Project Gutenberg™ electronic works",
+      "position": 725730,
+      "marker": "Section 5. General Information About Project Gutenberg™ electronic works",
+      "is_embedded_document": false
+    }
+  ],
+  "embedded_documents": [],
+  "quotations": []
+}
