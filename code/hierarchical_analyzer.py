@@ -19,31 +19,39 @@ class HierarchicalAnalyzer:
     """
     
     def __init__(self, model="qwen3:235b-a22b", max_workers=8, query_timeout=180, ollama_ports=None):
+        """
+        Initialize the hierarchical analyzer with a configurable model.
+        
+        Args:
+            model: The Ollama model to use
+            max_workers: Maximum number of worker threads for parallel processing
+            query_timeout: Timeout in seconds for each LLM query
+            ollama_ports: List of Ollama ports to use for distributed processing
+        """
         # Setup logging
-        self.logger = logging.getLogger(__name__)
+        self.logger = logging.getLogger('hierarchical_analyzer')
         
-        # Ollama model for advanced analysis
+        # Store configuration
         self.model = model
-        
-        # Set max workers for parallel processing (default 8 based on testing)
-        self.max_workers = max_workers
-        
-        # Timeout for individual queries (in seconds)
         self.query_timeout = query_timeout
         
         # Ollama ports for distributed processing (default is just the standard port)
         self.ollama_ports = ollama_ports or [11434]
         
-        self.logger.info(f"Initialized with model: {model}, workers: {max_workers}, timeout: {query_timeout}s")
+        # Calculate optimal worker count based on available resources
+        self.max_workers = self._calculate_optimal_workers(max_workers)
+        
+        # Log initialization
+        self.logger.info(f"Initialized with model: {model}, workers: {self.max_workers}, timeout: {self.query_timeout}s")
         self.logger.info(f"Using Ollama ports: {self.ollama_ports}")
         
-        # Ensure required NLTK resources are available
+        # Download NLTK data if not already available
         try:
             nltk.data.find('tokenizers/punkt')
         except LookupError:
             nltk.download('punkt')
     
-    def _calculate_optimal_workers(self):
+    def _calculate_optimal_workers(self, max_workers):
         """Calculate optimal number of workers based on available system resources"""
         try:
             # Get memory info
@@ -362,7 +370,7 @@ class HierarchicalAnalyzer:
         distributing work across multiple Ollama instances if available.
         """
         # Use provided max_workers or calculate optimal number
-        max_workers = self.max_workers or self._calculate_optimal_workers()
+        max_workers = self.max_workers or self._calculate_optimal_workers(len(sections))
         self.logger.info(f"Processing {len(sections)} sections with {max_workers} workers across {len(self.ollama_ports)} Ollama instances")
         
         # Process sections in parallel with port assignment for load balancing
